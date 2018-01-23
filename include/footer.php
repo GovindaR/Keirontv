@@ -15,11 +15,11 @@
 				        <a href="#">Affiliate Program</a>
 	        <div>
 	        	<a>
-	        	<i class="fa fa-facebook" aria-hidden="true" target="_blank"></i>
-	        	<i class="fa fa-tumblr" aria-hidden="true" target="_blank"></i>
-	        	<i class="fa fa-google-plus" aria-hidden="true" target="_blank"></i>
-	        	<i class="fa fa-rss" aria-hidden="true" target="_blank"></i>
-	        	<i class="fa fa-envelope" aria-hidden="true" target="_blank"></i>
+	        	<i class="fa fa-facebook" aria-hidden="true" ></i>
+	        	<i class="fa fa-tumblr" aria-hidden="true" ></i>
+	        	<i class="fa fa-google-plus" aria-hidden="true" ></i>
+	        	<i class="fa fa-rss" aria-hidden="true" ></i>
+	        	<i class="fa fa-envelope" aria-hidden="true" ></i>
 	        	</a>
 	        	<ins>Website by:&nbsp;
 	        		<a href="#" title="http://www.tqid.com/" target="_blank">TQID</a>

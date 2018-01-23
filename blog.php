@@ -25,13 +25,13 @@
 
 			<form class="page-action">
 				<div class="search">
-					<input name="" type="text" class="placeholder" placeholder="Search blogs ...">
-					<input name="" type="submit" class="btn" value="">
+					<input  type="text" class="placeholder" placeholder="Search blogs ...">
+					<input  type="submit" class="btn" value="">
 				</div>
 				<div class="select-wrapper">
 					<ins>SORT BY:</ins>
 					<div class="select">
-					<select name="" id="">
+					<select  id="">
 	                	<option selected="">Date</option>
 	                	<option>Title</option>
 	                	<option>Views</option>

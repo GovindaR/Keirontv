@@ -847,8 +847,8 @@ div.error-msg span:before {
     width: 10px;
     height: 30px;
     position: absolute;
-    right: 0;
-    top: 0;
+    right: 94px;
+    top: 20px;
     z-index: 1;
     cursor: default;
 }

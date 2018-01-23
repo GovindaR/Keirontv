@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html>
 <head>
 	<title>kieron</title>
 	<?php include('include/head.php') ?>
@@ -17,14 +16,14 @@
 <!-- video slider start -->
 		<div class="video-show ">
 			<div class="video-carousel">
-			<iframe id="thumb1" width="960" height="526" src="https://www.youtube.com/embed/uvjTo-hRD5c" frameborder="0"   allowfullscreen></iframe>
-			<iframe id="thumb2" width="960" height="526" src="https://www.youtube.com/embed/U080r7QWqOE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-			<iframe id="thumb3" width="960" height="526" src="https://www.youtube.com/embed/UOCNEwoJtS0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-			<iframe id="thumb4" width="960" height="526" src="https://www.youtube.com/embed/bPdsu0dpAeo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-			<iframe id="thumb5" width="960" height="526" src="https://www.youtube.com/embed/EYygv7zV5ME" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-			<iframe id="thumb6" width="960" height="526" src="https://www.youtube.com/embed/EYygv7zV5ME" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-			<iframe id="thumb7" width="960" height="526" src="https://www.youtube.com/embed/xl7Hd2r0LOs" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-			<iframe id="thumb8" width="960" height="526" src="https://www.youtube.com/embed/m_uWS6K-VF8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+			<iframe id="thumb1" width="960" height="526" src="https://www.youtube.com/embed/uvjTo-hRD5c?rel=0&autoplay=1"    allowfullscreen style="display:block"></iframe>
+			<iframe id="thumb2" width="960" height="526" src="https://www.youtube.com/embed/U080r7QWqOE"  allowfullscreen></iframe>
+			<iframe id="thumb3" width="960" height="526" src="https://www.youtube.com/embed/UOCNEwoJtS0"  allowfullscreen></iframe>
+			<iframe id="thumb4" width="960" height="526" src="https://www.youtube.com/embed/bPdsu0dpAeo"  allowfullscreen></iframe>
+			<iframe id="thumb5" width="960" height="526" src="https://www.youtube.com/embed/EYygv7zV5ME" allowfullscreen></iframe>
+			<iframe id="thumb6" width="960" height="526" src="https://www.youtube.com/embed/EYygv7zV5ME"  allowfullscreen></iframe>
+			<iframe id="thumb7" width="960" height="526" src="https://www.youtube.com/embed/xl7Hd2r0LOs" allowfullscreen></iframe>
+			<iframe id="thumb8" width="960" height="526" src="https://www.youtube.com/embed/m_uWS6K-VF8"  allowfullscreen></iframe>
 			</div>
 		</div>
 		<div class="video-title">
@@ -132,7 +131,7 @@
 		            </div>
 		            <div class="item">
 		            	<a href="#thumb5">
-		              <img src="images/thumb5.png" alt="THUMB5"></a>
+		              <img src="images/thumb5.png" alt="THUMB5">
 		              <span>
 		            		<i class="fa fa-play-circle-o" aria-hidden="true"></i>
 		            	</span>
@@ -256,7 +255,7 @@
 				</div>
 			</div>
 				<div class="home-highlights">
-					<div style="margin-top: 25px;">
+					<div>
 						<h2 class="modulehead">
 							<i class="fa fa-play-circle-o faa-spin animated" aria-hidden="true"></i>
 						<div>LEADERSHIP<br>INSIGHTS</div>

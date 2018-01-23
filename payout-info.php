@@ -182,7 +182,7 @@
                 </div>
                 <div class="right-pay-info">
                 <div class="select-wrapper"><a href="javascript:;"></a>
-                <select name="" style="width: 170px;">
+                <select  style="width: 170px;">
                 	<option selected="">Not Selected</option>
                 	<option>Paypal</option>
                 </select>

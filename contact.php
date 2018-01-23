@@ -27,19 +27,19 @@
 			</h1>
 			<form method="post" action="member-dashboard.php" class="membership-signup">
 				<h3>Send us message</h3>
-				<div class="item1 "><span class="input-required">*</span><label for="fname">First and Last name:</label></div>
+				<div class="item1 "><span class="input-required">*</span><label>First and Last name:</label></div>
 				<div class="item2 item1"><input type="text" name="fname" class="placeholder" placeholder="First Name" required>
 				&nbsp;&nbsp;
 				 <input type="text" name="lname" class="placeholder" placeholder="Last Name" required></div>
-				 <div class="item1 "><span class="input-required">*</span><label for="email">Your email address
+				 <div class="item1 "><span class="input-required">*</span><label>Your email address
                 </label></div>
-				<div class="item1 item2 "><input type="email" name="email"required>
+				<div class="item1 item2 "><input type="email" name="email" required>
 				</div>
-				<div class="item1 "><span class="input-required">*</span><label for="phone">Phone number:
+				<div class="item1 "><span class="input-required">*</span><label>Phone number:
                 </label></div>
-				<div class="item1 item2 "><input type="text" name="phone"required>
+				<div class="item1 item2 "><input type="text" name="phone" required>
 				</div>
-				<div class="item1 "><span class="input-required">*</span><label for="phone">Message
+				<div class="item1 "><span class="input-required">*</span><label>Message
                 </label></div>
 				<div class="item1 item2 "><textarea name="message" cols="40" rows="7"></textarea>
 					<span class="notice">This&nbsp;field&nbsp;is&nbsp;required.</span>

@@ -142,7 +142,7 @@
 			<li> 
 				<a href="index.php">
 					<span><span></span><img src="images/icon-dashboard-logout.png" alt="Logout"></span>
-					<ins href="#">Logout</ins>
+					<ins>Logout</ins>
 				</a>
             </li>
 		</ul>
@@ -208,13 +208,13 @@
 				<div>
 					<div class="redblock">
 						<h3>Newsletter Subscriptions</h3>
-						<form><label><input name="" type="checkbox" value=""> Subscribe to capturektv.</label></form>
+						<form><label><input  type="checkbox" value=""> Subscribe to capturektv.</label></form>
 					</div>
 				</div>
 				<div>
 					<div class="redblock">
                     	<h3>Unsubscribe from all e-mail messages</h3>
-                        <form><label><input name="" type="checkbox" value=""> Unsubscribe from all e-mail messages.</label></form>
+                        <form><label><input  type="checkbox" value=""> Unsubscribe from all e-mail messages.</label></form>
 					</div>
 				</div>
 			</div>
