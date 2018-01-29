@@ -376,8 +376,8 @@
     align-items: center; 
 }
 .row2-plan-head .row2-plan-head2 img,.row2-plan-head-hover .row2-plan-head2 img{
-    width: auto;
-    height: auto;
+    max-height: initial;
+    max-width: initial;
 }
 .row2-plan-head{
     background-color: #f6f6f6;
